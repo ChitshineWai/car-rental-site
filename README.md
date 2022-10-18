@@ -32,3 +32,10 @@ car-rental system is a [DBMS project] with both admin and user layouts.
 12. first register and then login
 
 13. admin login details  username = mgmg and Password=1234.
+
+# Screenshots
+![Image of adduser]((https://github.com/ChitshineWai/car-rental-site/blob/master/images/2.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adminproductadd.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/manageuser.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/manageuseradmin.png)
+![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productlistadmin.png)
